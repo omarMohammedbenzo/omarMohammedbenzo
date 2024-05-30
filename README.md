@@ -1,8 +1,6 @@
 # Hey! Nice to see you.
 #### Welcome to my profile! I'm Omar Mohammed. A Software Egineer student - FullStack Web Developer, Living in Egypt 🇪🇬
 
-- 🔭 I’m currently working on *HTML, CSS, JS, BS, JQ*
-
 - 🌱 I’m currently learning *AWS cloud Engineering*
 
 - 📚 Reading 《Clean Code ,  Head First Design Patterns》
@@ -12,6 +10,31 @@
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1jwh16yWb_fw0sWlTlgzOcdb4EnVISC5F/view?usp=sharing)
 
 - 💬 Ask me about *anything, I am happy to help;*
+
+- 🔭 I’m currently working on :
+# My Project
+
+## 🔭 Current Technologies I'm Working On:
+
+### Frontend Development:
+- **HTML**: Markup language for creating web pages.
+- **CSS**: Stylesheet language used for describing the presentation of a document written in HTML.
+- **JavaScript**: Programming language that allows you to implement complex features on web pages.
+- **Bootstrap**: Frontend framework for developing responsive and mobile-first websites.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **jQuery**: Fast, small, and feature-rich JavaScript library.
+- **AJAX**: Technique for creating fast and dynamic web pages.
+
+### Backend Development:
+- **PHP**: Server-side scripting language designed for web development.
+- **Laravel**: PHP framework for web artisans, providing an elegant syntax and powerful tools.
+- **MySQL**: Open-source relational database management system.
+- **API Development**: Building and consuming APIs to enable interaction between different software intermediaries.
+
+### Graphic Design Tools:
+- **Adobe Premiere**: Timeline-based video editing software application.
+- **Adobe Photoshop**: Software for image editing and photo retouching.
+- **Adobe XD**: Vector-based user experience design tool for web apps and mobile apps.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
