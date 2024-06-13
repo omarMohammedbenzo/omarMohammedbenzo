@@ -1,5 +1,5 @@
 # Hey! Nice to see you.
-#### Welcome to my profile! I'm Omar Mohammed. A Software Egineer student - FullStack Web Developer, Living in Egypt 🇪🇬
+#### Welcome to my profile! I'm Omar Mohammed. A Software Engineer student - FullStack Web Developer, Living in Egypt 🇪🇬
 
 - 🌱 I’m currently learning *AWS cloud Engineering*
 
