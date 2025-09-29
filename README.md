@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *umar27.11.2001@gmail.com*
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1jwh16yWb_fw0sWlTlgzOcdb4EnVISC5F/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1VS852mO9pRljLEh10gsGZfj7VyLukF6r/view?usp=sharing)
 
 - 💬 Ask me about *anything, I am happy to help;*
 
