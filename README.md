@@ -1,7 +1,6 @@
 # Hey! Nice to see you.
 #### Welcome to my profile! I'm Omar Mohammed. A Software Engineer student - FullStack Web Developer, Living in Egypt 🇪🇬
-## My second GitHub account
-[Omar Mohammed](https://github.com/omarMadmonAi)
+## My second GitHub account [Omar Mohammed](https://github.com/omarMadmonAi)
 
 - 🌱 I’m currently learning *AWS cloud Engineering*
 
