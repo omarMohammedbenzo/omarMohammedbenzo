@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarMadmonAi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/omarMadmonAi?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=omarMohammedbenzo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/omarMohammedbenzo?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ contact: umar27.11.2001@gmail.com
 - 🌱 **Currently learning:** AWS (EC2, S3, Lambda, RDS), Docker, CI/CD pipelines
 - 👯 **Looking to collaborate on:** Open-source Laravel/Vue.js projects
 - 📄 **My CV:** [View here](https://drive.google.com/file/d/1C1m4MAQmQZfEyRar_Q-P_TrR7B1S7DGR/view?usp=sharing)
-- 🔗 **Second GitHub:** [@omarMadmonAi](https://github.com/omarMadmonAi)
+- 🔗 **Second GitHub:** [@omarMohammedbenzo](https://github.com/omarMohammedbenzo)
 
 ---
 
@@ -93,16 +93,16 @@ contact: umar27.11.2001@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarMadmonAi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarMadmonAi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarMohammedbenzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarMohammedbenzo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarMadmonAi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarMohammedbenzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarMadmonAi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omarMohammedbenzo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ contact: umar27.11.2001@gmail.com
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarMadmonAi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarMohammedbenzo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ contact: umar27.11.2001@gmail.com
   <a href="mailto:umar27.11.2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/omarMadmonAi" target="_blank">
+  <a href="https://github.com/omarMohammedbenzo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -154,5 +154,5 @@ contact: umar27.11.2001@gmail.com
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/omarMadmonAi">Omar Mohammed</a> — Thanks for visiting! Let's build something amazing together. 🚀</i>
+  <i>⭐ From <a href="https://github.com/omarMohammedbenzo">Omar Mohammed</a> — Thanks for visiting! Let's build something amazing together. 🚀</i>
 </p>
