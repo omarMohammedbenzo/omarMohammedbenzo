@@ -38,7 +38,7 @@ contact: umar27.11.2001@gmail.com
 - 🌱 **Currently learning:** AWS (EC2, S3, Lambda, RDS), Docker, CI/CD pipelines
 - 👯 **Looking to collaborate on:** Open-source Laravel/Vue.js projects
 - 📄 **My CV:** [View here](https://drive.google.com/file/d/12an3z95sI0S1UZBS-jjIQCercfbz6Dl5/view?usp=sharing)
-- 🔗 **Second GitHub:** [@omarMohammedbenzo](https://github.com/omarMadmonAi)
+- 🔗 **Second GitHub:** [@Omar Mohammed](https://github.com/omarMadmonAi)
 
 ---
 
