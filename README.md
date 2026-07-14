@@ -37,8 +37,8 @@ contact: umar27.11.2001@gmail.com
 - 🔭 **Currently working on:** Scalable CRM systems and cloud-native Laravel applications
 - 🌱 **Currently learning:** AWS (EC2, S3, Lambda, RDS), Docker, CI/CD pipelines
 - 👯 **Looking to collaborate on:** Open-source Laravel/Vue.js projects
-- 📄 **My CV:** [View here](https://drive.google.com/file/d/1C1m4MAQmQZfEyRar_Q-P_TrR7B1S7DGR/view?usp=sharing)
-- 🔗 **Second GitHub:** [@omarMohammedbenzo](https://github.com/omarMohammedbenzo)
+- 📄 **My CV:** [View here](https://drive.google.com/file/d/12an3z95sI0S1UZBS-jjIQCercfbz6Dl5/view?usp=sharing)
+- 🔗 **Second GitHub:** [@omarMohammedbenzo](https://github.com/omarMadmonAi)
 
 ---
 
