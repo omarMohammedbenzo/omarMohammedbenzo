@@ -2,15 +2,16 @@
 
 # Omar Mohammed
 
-**Full-Stack Web Developer** · Laravel & Vue.js
+**Full-Stack Developer** · Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=4%2B+years+building+scalable+web+apps;Laravel+%C2%B7+Vue.js+%C2%B7+MySQL+%C2%B7+REST+APIs;Backend+team+lead+%26+CRM+architect;Currently+going+deep+on+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%40+winch.sa;4%2B+years+shipping+production+systems;Laravel+%C2%B7+Vue.js+%C2%B7+MySQL+%C2%B7+REST+APIs;CRM+architecture+%26+payment+integrations;Backend+team+lead" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-m-227b10253)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umar27.11.2001@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201050456069)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarmohammed.cloud/en)
 [![Resume](https://img.shields.io/badge/Resume-2F3136?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/12an3z95sI0S1UZBS-jjIQCercfbz6Dl5/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=omarMohammedbenzo&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -21,12 +22,11 @@
 
 ### About
 
-Full-stack developer from Egypt with 4+ years shipping production systems end to end — backend architecture through responsive interfaces. I've led backend teams, built CRMs from scratch, integrated third-party APIs, and spent a lot of time making slow databases fast.
+Full-stack developer with 4+ years building production systems end to end — backend architecture through responsive interfaces. I've led and mentored backend teams, built CRMs from scratch, wired up payment and messaging integrations, and spent a lot of time making slow queries fast.
 
-- 🔭 **Building** — scalable CRM systems and cloud-native Laravel applications
-- 🌱 **Learning** — AWS (EC2, S3, Lambda, RDS), Docker, CI/CD pipelines
-- 🤝 **Open to** — collaborating on Laravel / Vue.js open-source projects
-- 💬 **Ask me about** — Laravel architecture, API design, query optimization
+- 💼 **Currently** — Full-Stack Developer at [winch.sa](https://winch.sa), a logistics platform for transport and roadside assistance across Saudi Arabia
+- 🎓 **BSc Software Engineering** — Al-Azhar University, GPA 89.3%, First Class Honors
+- 🌍 **Languages** — Arabic (native) · English (professional)
 
 ---
 
@@ -36,17 +36,45 @@ Full-stack developer from Egypt with 4+ years shipping production systems end to
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,sqlite&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,firebase,supabase&theme=dark" alt="Backend stack" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=vue,js,tailwind,bootstrap,html,css&theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=vue,js,ts,tailwind,bootstrap,sass,jquery,html,css&theme=dark" alt="Frontend stack" />
 
-**DevOps & Tools**
+**Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,postman,figma&theme=dark" alt="Tools" />
+
+<br/>
+
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH%20%2F%20FTP-000000?style=flat-square&logo=openssh&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=flat-square&logo=zoho&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
 
 </div>
+
+---
+
+### Live Projects
+
+Platforms I've built and shipped to production.
+
+| | Project | What it is |
+|:--:|---|---|
+| <img src="https://www.google.com/s2/favicons?domain=winch.sa&sz=64" width="24" /> | **[winch.sa](https://winch.sa)** | Logistics platform connecting customers with transport and roadside assistance across Saudi Arabia |
+| <img src="https://www.google.com/s2/favicons?domain=rental.sa&sz=64" width="24" /> | **[rental.sa](https://rental.sa)** | Rental marketplace with Moyasar & STC Pay payment integration |
+| <img src="https://www.google.com/s2/favicons?domain=musawir.sa&sz=64" width="24" /> | **[musawir.sa](https://musawir.sa)** | Photography services platform with booking and payment flows |
+| <img src="https://www.google.com/s2/favicons?domain=velouraa-eg.com&sz=64" width="24" /> | **[Veloura](https://velouraa-eg.com/)** | Bilingual (AR/EN) e-commerce store — full catalog, cart, favorites, and InstaPay checkout |
+| <img src="https://www.google.com/s2/favicons?domain=danstrucking.com.au&sz=64" width="24" /> | **[Dan's Trucking](https://danstrucking.com.au/)** | Australian bulk freight company site with a CMS-driven services, fleet, and quote system |
+| <img src="https://www.google.com/s2/favicons?domain=madmon.ai&sz=64" width="24" /> | **[madmon.ai](https://madmon.ai)** | Real-estate platform with an internal CRM API supporting 14+ roles and workflows |
+| <img src="https://www.google.com/s2/favicons?domain=omarmohammed.cloud&sz=64" width="24" /> | **[omarmohammed.cloud](https://omarmohammed.cloud/en)** | My portfolio — bilingual (AR/EN), built with Laravel |
+
+<sub>**Integrations shipped across these:** Moyasar · STC Pay · Fawry · InstaPay · WhatsApp Business (Meta) OTP · SMS gateways · Firebase Cloud Messaging · Telegram Bots · OAuth 2.0 SSO (Microsoft & Google) · GA4 · GTM · Meta Pixel</sub>
 
 ---
 
