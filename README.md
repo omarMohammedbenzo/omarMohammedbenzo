@@ -89,20 +89,19 @@ contact: umar27.11.2001@gmail.com
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarMohammedbenzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarMohammedbenzo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarMohammedbenzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Omar's GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=omarMohammedbenzo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarMohammedbenzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarMohammedbenzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarMohammedbenzo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omarMohammedbenzo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -110,9 +109,8 @@ contact: umar27.11.2001@gmail.com
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarMohammedbenzo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarMohammedbenzo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
-
 ---
 
 ## 🏆 What I Bring to the Table
