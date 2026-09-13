@@ -71,7 +71,7 @@ Platforms I've built and shipped to production.
 | <img src="https://www.google.com/s2/favicons?domain=musawir.sa&sz=64" width="24" /> | **[musawir.sa](https://musawir.sa)** | Photography services platform with booking and payment flows |
 | <img src="https://www.google.com/s2/favicons?domain=velouraa-eg.com&sz=64" width="24" /> | **[Veloura](https://velouraa-eg.com/)** | E-commerce store — full catalog, cart, favorites, and InstaPay checkout |
 | <img src="https://www.google.com/s2/favicons?domain=danstrucking.com.au&sz=64" width="24" /> | **[Dan's Trucking](https://danstrucking.com.au/)** | Australian bulk freight company site with a CMS-driven services, fleet, and quote system |
-| <img src="https://drive.google.com/file/d/1SJgLP5qXlxCz8r-VugEWy4o4L8BQyad3/view?usp=sharing" width="24" /> | **[madmon.ai](https://madmon.ai)** | Real-estate platform with an internal CRM API supporting 14+ roles and workflows |
+| <img src="Logos-01.png" width="24" /> | **[madmon.ai](https://madmon.ai)** | Real-estate platform with an internal CRM API supporting 14+ roles and workflows |
 | <img src="https://www.google.com/s2/favicons?domain=omarmohammed.cloud&sz=64" width="24" /> | **[omarmohammed.cloud](https://omarmohammed.cloud/en)** | My portfolio — built with Laravel |
 
 <sub>**Integrations shipped across these:** Moyasar · STC Pay · Fawry · InstaPay · WhatsApp Business (Meta) OTP · SMS gateways · Firebase Cloud Messaging · Telegram Bots · OAuth 2.0 SSO (Microsoft & Google) · GA4 · GTM · Meta Pixel</sub>
