@@ -82,16 +82,9 @@ Platforms I've built and shipped to production.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omarMohammedbenzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=omarMohammedbenzo&theme=tokyonight&hide_border=true&card_width=420" height="170" alt="GitHub Streak" />
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarMohammedbenzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&cache_seconds=86400" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarMohammedbenzo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </div>
 
